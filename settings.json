@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "ShadowKING",
   "bot-account": {
-    "username": "KingBot",
+    "username": "ShadowKING",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 75375,
+    "ip": "SMP4US.aternos.me",
+    "port": 13013,
     "version": "1.21.1"
   },
   "position": {
