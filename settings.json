@@ -2,7 +2,7 @@
   "name": "ShadowKING",
   "bot-account": {
     "username": "ShadowKING",
-    "password": "ShadowKING@1208",
+    "password": "",
     "type": "offline"
   },
   "server": {
@@ -31,7 +31,7 @@
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "Subscribe to kingsowrov!",
+        "Hello!!!",
         "I like to play Minecraft!"
       ]
     },
